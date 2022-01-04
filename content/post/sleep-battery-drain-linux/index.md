@@ -3,7 +3,7 @@ title: Fix Linux Suspend Battery Drain
 description: |
     Linux Kernel now defaults suspend to s2idle rather than deep, causing
     the sleep battery drain issue
-date: 04-01-2022
+date: 2022-01-04
 slug: sleep-battery-drain-linux
 categories:
     - Linux
