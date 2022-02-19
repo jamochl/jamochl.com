@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /jamochl_logo.svg
 
     footer:
         since: 2021
