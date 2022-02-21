@@ -1,4 +1,4 @@
 #!/bin/bash
 
 hugo
-rsync -rv --delete public/* root@jamochl.com:/var/www/html/
+rsync --chown www-data:www-data -rv --delete public/* root@jamochl.com:/var/www/html/
